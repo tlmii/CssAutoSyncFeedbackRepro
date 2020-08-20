@@ -1,0 +1,6 @@
+﻿@media screen and (min-width: 500px) {
+    .interestingThing {
+        background-color: yellow;
+        border-color: black;
+    }
+}
